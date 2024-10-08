@@ -6,13 +6,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-
-
-
-
-
-
-
 - 🔭 I’m currently working on **Be Highcare**
 
 - 👨‍💻 All of my projects are available at [https://nihalali1967.github.io/portfolio-/](https://nihalali1967.github.io/portfolio-/)
