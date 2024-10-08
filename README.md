@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nihal Ali</h1>
 <h3 align="center">A passionate backend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://www.behance.net/gallery/183178475/Coding">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihalali1967" alt="nihalali1967" /></a> </p>
 
